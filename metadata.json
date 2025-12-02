@@ -1,0 +1,5 @@
+{
+  "name": "PelusaSpa - Prototipos UI",
+  "description": "Implementación de 8 pantallas de alta fidelidad para PelusaSpa utilizando React, TypeScript y Tailwind CSS, basadas en prototipos Stitch.",
+  "requestFramePermissions": []
+}
