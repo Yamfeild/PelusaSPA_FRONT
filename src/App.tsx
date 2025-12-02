@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Page } from './types';
-import PublicHeader from './components/PublicHeader';
-import Footer from './components/Footer';
+import PublicHeader from '../src/components/PublicHeader';
+import Footer from '../src/components/Footer';
 
 // Pages
 import Home from './pages/Home';
