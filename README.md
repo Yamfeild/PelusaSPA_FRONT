@@ -1,53 +1,81 @@
-
-
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1pR_sHUzJisA4xsFvzohhnq7noGQPhtx5
+🔗 **View your app in AI Studio:**  
+https://ai.studio/apps/drive/1pR_sHUzJisA4xsFvzohhnq7noGQPhtx5
 
-## Run Locally
+---
 
-**Prerquisito:**  Node.js
+# 🛠️ COMO HACER QUE FUNCIONE LOCALMENTE
 
+## ✅ Prerequisito: Node.js
 
-🚀 Instalación y Ejecución del Proyecto — PelusaSPA Frontend
+Verifica en consola si tienes instalado Node.js:
 
-Este proyecto utiliza Vite + React + TypeScript.
-verifica en consola si tienes instalado node con el siguiente comando:
-
+```bash
 node -v
 npm -v
+```
 
-SI NO LO TIENES COMIENZA CON SU INSTALACION
-0. Instalar Node.js (requisito previo)
+Si no lo tienes instalado, empieza por el siguiente paso.
+
+---
+
+## 0️⃣ Instalar Node.js (requisito previo)
 
 Antes de ejecutar el proyecto, necesitas instalar Node.js desde el sitio oficial:
 
-Descargar Node.js (versión LTS):
-https://nodejs.org/en
+🔗 https://nodejs.org/en/download
 
-Después de instalar, puedes verificar que funciona con:
+<img width="789" height="268" alt="image" src="https://github.com/user-attachments/assets/bf4da3c6-9230-42b2-8663-0aaaec44245b" />
 
+
+Después de instalar, verifica que funciona con:
+
+```bash
 node -v
 npm -v
+```
 
-1. Instalar dependencias
+---
+
+# 🚀 Instalación y Ejecución del Proyecto — PelusaSPA Frontend
+
+Este proyecto utiliza **Vite + React + TypeScript**.
+
+---
+
+## 1️⃣ Instalar dependencias
 
 Ubícate en la carpeta del proyecto:
 
+```bash
 cd PelusaSPA_FRONT
+```
 
-Luego instala las dependencias:
+Instala las dependencias:
 
+```bash
 npm install
+```
 
-2. Ejecutar el servidor de desarrollo
+---
 
+## 2️⃣ Ejecutar el servidor de desarrollo
+
+Ejecuta el servidor:
+
+```bash
 npm run dev
+```
 
 Vite mostrará una salida similar:
 
+```
 Local: http://localhost:3000/
+```
 
 Abre esa URL en tu navegador para visualizar la aplicación.
+
+---
